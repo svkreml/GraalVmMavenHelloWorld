@@ -1,0 +1,1 @@
+module svkreml.GraalVmMavenHelloWorld {}
